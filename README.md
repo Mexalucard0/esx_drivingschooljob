@@ -14,3 +14,5 @@ It gives you a chance to become an driving instructor. The instructors can only 
 * Notifications
 
   **Preview** https://streamable.com/bu30gj
+  
+  **Map** https://drive.google.com/file/d/1j76babd7BzudCFsDGarABzfNMqnf2BVC/view?usp=sharing
