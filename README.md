@@ -13,7 +13,8 @@ It gives you a chance to become an driving instructor. The instructors can only 
 * Integration of dmvschool Theory test. 
 * Notifications
 
-# Requirements
 *  **Preview** https://streamable.com/bu30gj
-  
- * **Map** https://drive.google.com/file/d/1j76babd7BzudCFsDGarABzfNMqnf2BVC/view?usp=sharing
+
+# Requirements
+
+* **Map** https://drive.google.com/file/d/1j76babd7BzudCFsDGarABzfNMqnf2BVC/view?usp=sharing
