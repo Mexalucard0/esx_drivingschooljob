@@ -36,7 +36,7 @@ Config.Zones = {
 Config.Blip = {
 
    Blip = {
-      Pos     = {x = 212.38, y = -1397.26, z = 30.58},
+      Pos   = {x = 225.76, y = 374.86, z = 106.10},
       Sprite  = 530,
       Display = 4,
       Scale   = 1.2,
